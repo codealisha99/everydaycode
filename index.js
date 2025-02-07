@@ -34,6 +34,9 @@ function completeTask(id){
         console.log('task not found');
     }
 }
+function updateTask(){
+    
+}
 
 addTask("sex is nice")
 addTask("even nicer with your gf");
