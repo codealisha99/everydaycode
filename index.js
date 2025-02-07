@@ -35,9 +35,11 @@ function completeTask(id){
     }
 }
 function updateTask(){
+
+}
+function deleteTask() {
     
 }
-
 addTask("sex is nice")
 addTask("even nicer with your gf");
 loadTasks();
